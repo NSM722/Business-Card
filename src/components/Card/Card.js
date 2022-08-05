@@ -1,12 +1,18 @@
-import React from 'react';
+/*import React, {useState, useEffect} from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 const Card = () => {
   return (
     <>
-      <div className="card bg-secondary border-dark">
-        <img src="https://picsum.photos/400" 
+    </>
+  );
+}
+
+export default Card;*/
+
+/**
+ * <img src="https://picsum.photos/400" 
         className="card-img-top" 
         alt="Random pics from lorem picsum site" />
         <div className="card-body text-white">
@@ -29,9 +35,4 @@ const Card = () => {
           target='_blank' 
           rel="noreferrer">Github</a>
         </div>
-      </div>
-    </>
-  );
-}
-
-export default Card;
+ */

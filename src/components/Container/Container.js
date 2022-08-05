@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 import Card from '../Card/Card';
 
 const Container = () => {
@@ -14,4 +14,4 @@ const Container = () => {
   );
 }
 
-export default Container;
+export default Container;*/
