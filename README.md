@@ -40,7 +40,7 @@ The business card makes use of Bootstrap card class and includes:
 
 This is a free, open-source API for generating random user data. Like Lorem Ipsum, but for people.
 
-For documentation on how to use this API please follow this link [Random User Generator]("https://randomuser.me/")
+For documentation on how to use this API please follow this link [Random User Generator](https://randomuser.me/ "Documentation")
 
 ---
 
